@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nguyen+Ngoc+Huy+%F0%9F%91%8B;Backend+Developer;" alt="Typing SVG" />
 
-<p>Backend developer with 3+ years of experience building scalable systems using <strong>.NET Core</strong>, <strong>Golang</strong>, and <strong>Microservices</strong> architecture.
+<p>Backend developer with 3+ years of experience building scalable systems using  <strong>Golang</strong>, <strong>.NET Core</strong>, and <strong>Microservices</strong> architecture.
 
 <p>
   📍 Ho Chi Minh City, Vietnam &nbsp;|&nbsp;
